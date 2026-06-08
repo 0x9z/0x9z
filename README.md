@@ -37,7 +37,7 @@
 
 - 🐙 GitHub: [@0x9z](https://github.com/0x9z)
 - 📝 Medium: [@0x9z](https://medium.com/@0x9z)
--   Linked-in: [@anasaitbaani](https://www.linkedin.com/in/anasaitbaani)
+- 🐋 Linked-in: [@anasaitbaani](https://www.linkedin.com/in/anasaitbaani)
 ---
 
 <p align="center">
