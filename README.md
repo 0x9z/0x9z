@@ -9,7 +9,7 @@
   <a href="https://github.com/0x9z">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/anasaitbaani">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@0x9z">
@@ -26,16 +26,10 @@
 | **Networking** | 🔹 Routing & Switching (Cisco) |
 | **Operating Systems** | 🔹 Linux (Ubuntu, Debian) |
 | **Scripting** | 🔹 Bash, Python (basic) |
-| **Tools** | 🔹 Git, GitHub, Packet Tracer |
+| **Tools** | 🔹 Git, GitHub, GNS3 |
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x9z&layout=compact&theme=dark" width="48%" />
-</p>
 
 ---
 
@@ -43,8 +37,7 @@
 
 - 🐙 GitHub: [@0x9z](https://github.com/0x9z)
 - 📝 Medium: [@0x9z](https://medium.com/@0x9z)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
+-   Linked-in: [@anasaitbaani](https://www.linkedin.com/in/anasaitbaani)
 ---
 
 <p align="center">
