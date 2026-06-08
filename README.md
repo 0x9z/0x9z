@@ -15,9 +15,6 @@
   <a href="https://medium.com/@0x9z">
     <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -36,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x9z&show_icons=true&theme=dark" width="48%" />
+  <img src="&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x9z&layout=compact&theme=dark" width="48%" />
 </p>
 
