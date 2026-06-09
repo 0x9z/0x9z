@@ -33,7 +33,7 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect with Me :
 
 - 🐙 GitHub: [@0x9z](https://github.com/0x9z)
 - 📝 Medium: [@0x9z](https://medium.com/@0x9z)
