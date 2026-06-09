@@ -1,4 +1,4 @@
-<!-- Header with GIF -->
+<!-- Header with GIF --> 
 <center>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNlZ2Z4bnA3Z3B0dTl3Y2czYzhxcjVxNG5jaWx6dXRqd3kxMDFjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pyvDmuNTHFxF5wuNYP/giphy.gif" width="1000px"/>
 </center>
