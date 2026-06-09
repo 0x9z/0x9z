@@ -1,9 +1,15 @@
 <!-- Header with GIF -->
-<h1 align="center">
+<h1 align="center"><center>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpM3VjYXUyM2U5eW1wZnFmNm12cjBkejdncHRkemhmMWJsdGJkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif" width="70px"/>
+</center>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <b>Hello, I'm Anas (0x9z) 🐋</b>
-  
+  <b>Hello, I'm Anas (0x9z)</b>
+  <center>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpM3VjYXUyM2U5eW1wZnFmNm12cjBkejdncHRkemhmMWJsdGJkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif" width="70px"/>
+</center>
 </h1>
+
+
 
 <!-- Badges (Large Style) -->
 <p align="center">
