@@ -9,7 +9,7 @@
   <a href="https://github.com/0x9z">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anasaitbaani">
+  <a href="https://www.linkedin.com/in/0x9z">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@0x9z">
@@ -37,7 +37,7 @@
 
 - 🐙 GitHub: [@0x9z](https://github.com/0x9z)
 - 📝 Medium: [@0x9z](https://medium.com/@0x9z)
-- 🐋 Linked-in: [@anasaitbaani](https://www.linkedin.com/in/anasaitbaani)
+- 🐋 Linked-in: [@0x9z](https://www.linkedin.com/in/0x9z)
 ---
 
 <p align="center">
