@@ -31,7 +31,9 @@
 
 ---
 
-<center><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhMXp1dzBlbno3c2EzcTNweDVnZ3did293ZTNiajloYnkwcDlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="100px"/></center>center
+<center>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhMXp1dzBlbno3c2EzcTNweDVnZ3did293ZTNiajloYnkwcDlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="1000px"/>
+</center>
 
 ---
 
