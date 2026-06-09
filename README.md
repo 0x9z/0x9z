@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <b>Hello, I'm Anas (0x9z) 🐋</b>
+  
 </h1>
 
 <!-- Badges (Large Style) -->
