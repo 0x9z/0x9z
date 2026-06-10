@@ -34,6 +34,10 @@
 
 ---
 
+<div class="w-full md:w-8/12 justify-center flex flex-col flex-wrap md:my-4"><img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.shion.dev/api?username=0x9z&amp;theme=codeSTACKr&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://streak-stats.demolab.com/?user=0x9z&amp;theme=codeSTACKr&amp;hide_border=false" alt=""><img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.shion.dev/api/top-langs/?username=0x9z&amp;theme=codeSTACKr&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></div>
+
+---
+
 ## Note:
 
 **Take a look at my CCNA learning REPO here 👉 [Link](https://github.com/0x9z/CCNA-Jeremy-Notes).**
