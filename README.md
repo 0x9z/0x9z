@@ -65,7 +65,8 @@
 ## 📬 Connect with Me :
 
 - 🐙 GitHub: [@0x9z](https://github.com/0x9z)
-- 📝 Medium: [@0x9z](https://medium.com/@0x9z)
+- 𝕏  X.com: [@_0x9z](https://x.com/_0x9z)
+- Ⓜ️ Medium: [@0x9z](https://medium.com/@0x9z)
 - 🐋 Linked-in: [@0x9z](https://www.linkedin.com/in/0x9z)
 ---
 
