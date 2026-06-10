@@ -18,6 +18,9 @@
 
 <!-- Badges (Large Style) -->
 <p align="center">
+  <a href="https://x.com/_0x9z">
+    <img src="https://img.shields.io/twitter/follow/_0x9z" />
+  </a>
   <a href="https://github.com/0x9z">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
