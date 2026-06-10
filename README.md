@@ -30,6 +30,14 @@
 
 ---
 
+## Note:
+
+**Take a look at my 111 learning list here [Link].**
+**Take a look at my 111 projects [Link].**
+**Take a look at my simple Linux projects [Link].**
+
+---
+
 ## 🛠️ Skills
 
 | Category | Skills |
