@@ -32,11 +32,11 @@
 
 ## Note:
 
-**Take a look at my CCNA learning REPO here [Link].**
+**Take a look at my CCNA learning REPO here 👉 [Link](https://github.com/0x9z/CCNA-Labs).**
 
-**Take a look at my CCNA LABS here [Link].**
+**Take a look at my CCNA LABS here 👉 [Link].**
 
-**Take a look at my simple Linux projects [Link].**
+**Take a look at my simple Linux projects 👉 [Link].**
 
 
 ---
