@@ -36,7 +36,7 @@
 
 **Take a look at my CCNA LABS here 👉 [Link](https://github.com/0x9z/CCNA-Labs).**
 
-**Take a look at my simple Linux projects 👉 [Link].**
+**Take a look at my simple Linux projects 👉 [Link](https://github.com/0x9z/linux-projects).**
 
 
 ---
