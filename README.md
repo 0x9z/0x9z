@@ -19,7 +19,7 @@
 <!-- Badges (Large Style) -->
 <p align="center">
   <a href="https://x.com/_0x9z">
-    <img src="https://img.shields.io/twitter/follow/_0x9z" />
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="https://github.com/0x9z">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -29,6 +29,9 @@
   </a>
   <a href="https://medium.com/@0x9z">
     <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/0x9z">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
 
