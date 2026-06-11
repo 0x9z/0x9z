@@ -81,11 +81,25 @@
 
 ## 📬 Connect with Me :
 
-- 🐙 GitHub: [@0x9z](https://github.com/0x9z)
-- 𝕏   X.com: [@_0x9z](https://x.com/_0x9z)
-- Ⓜ️ Medium: [@0x9z](https://medium.com/@0x9z)
-- 🐋 Linked-in: [@0x9z](https://www.linkedin.com/in/0x9z)
--    Dev.to:  [0x9z](https://dev.to/0x9z)
+<!-- Badges2 (Large Style) -->
+<p align="center">
+  <a href="https://x.com/_0x9z">
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" />
+  </a> | 
+  <a href="https://github.com/0x9z">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> | 
+  <a href="https://www.linkedin.com/in/0x9z">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> | 
+  <a href="https://medium.com/@0x9z">
+    <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
+  </a> | 
+  <a href="https://dev.to/0x9z">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
