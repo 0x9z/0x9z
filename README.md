@@ -1,9 +1,4 @@
-<img src="{[BadgeURLHere](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)}" />
 <!-- Header with GIF --> 
-<center>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNlZ2Z4bnA3Z3B0dTl3Y2czYzhxcjVxNG5jaWx6dXRqd3kxMDFjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pyvDmuNTHFxF5wuNYP/giphy.gif" width="1000px"/>
-</center>
-
 <h1 align="center"><center>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR3MDVtdDR6Nm5ncWozaWZ6d29nbXRxbTdwbzlkMW9hM3ltbnQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DH1Au7j1gCGxGOkvUm/giphy.gif" width="70px"/>
 </center>
@@ -34,6 +29,20 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
+
+---
+
+![Cisco Badge](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
+![Juniper Networks Badge](https://img.shields.io/badge/Juniper%20Networks-84B135?logo=junipernetworks&logoColor=fff&style=for-the-badge)
+![Palo Alto Networks Badge](https://img.shields.io/badge/Palo%20Alto%20Networks-F04E23?logo=paloaltonetworks&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=for-the-badge)
+![LinuxServer Badge](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff&style=for-the-badge)
+![Linux Containers Badge](https://img.shields.io/badge/Linux%20Containers-333?logo=linuxcontainers&logoColor=fff&style=for-the-badge)
+![Linux Professional Institute Badge](https://img.shields.io/badge/Linux%20Professional%20Institute-FDC300?logo=linuxprofessionalinstitute&logoColor=000&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Perl Badge](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
 ---
 
