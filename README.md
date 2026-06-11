@@ -60,7 +60,7 @@
 
 ## Note:
 
-**Take a look at my CCNA learning REPO here 👉 [Link](https://github.com/0x9z/CCNA-Jeremy-Notes).**
+**Take a look at my CCNA learning Notes REPO here 👉 [Link](https://github.com/0x9z/CCNA-Jeremy-Notes).**
 
 **Take a look at my CCNA LABS here 👉 [Link](https://github.com/0x9z/CCNA-Labs).**
 
