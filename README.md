@@ -56,16 +56,15 @@
 # 💫 About Me:
 🔭 Specialized in networks and cyber security. Fueled by Linux, hands-on homelabs, and a deep curiosity to look under the hood of tools and software. Currently mastering Docker.
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=0x9z&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=0x9z&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=0x9z&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=0x9z&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----
 
 <center>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhMXp1dzBlbno3c2EzcTNweDVnZ3did293ZTNiajloYnkwcDlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="1000px"/>
