@@ -54,7 +54,7 @@
 
 
 # 💫 About Me:
-🔭 Specialized in networks and cyber security. Fueled by Linux, hands-on homelabs, and a deep curiosity to look under the hood of tools and software. Currently mastering Docker.
+🔭 Specialized in network engineering & cybersecurity. Fueled by Linux, hands-on homelabs, and a deep curiosity to reverse-engineer tools. I break things to understand them, then I write about it..
 
 ---
 # 📊 GitHub Stats:
