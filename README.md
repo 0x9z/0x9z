@@ -67,7 +67,7 @@
 
 
 <center>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhMXp1dzBlbno3c2EzcTNweDVnZ3did293ZTNiajloYnkwcDlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="1000px"/>
+  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3968993%2F757d1916-1627-4673-ae4a-b53d0ccaaad7.gif" width="1000px"/>
 </center>
 
 ---
