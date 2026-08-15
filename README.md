@@ -1,105 +1,100 @@
-<div align="center">
+<!-- Header with GIF --> 
+<h1 align="center"><center>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR3MDVtdDR6Nm5ncWozaWZ6d29nbXRxbTdwbzlkMW9hM3ltbnQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DH1Au7j1gCGxGOkvUm/giphy.gif" width="70px"/>
+</center>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <b>Hello, I'm Anas (0x9z)</b>
+  <center>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR3MDVtdDR6Nm5ncWozaWZ6d29nbXRxbTdwbzlkMW9hM3ltbnQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DH1Au7j1gCGxGOkvUm/giphy.gif" width="70px"/>
+</center>
+</h1>
 
-# ⚡ 0x9z | Network Security & Automation
 
-### `root@0x9z:~$ whoami`
-### *Network Security Engineer | Linux Enthusiast | Homelab Builder*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&lines=Network+Security+Engineer;Linux+Enthusiast;Homelab+Builder;I+break+things+to+understand+them;Welcome+to+my+digital+playground)](https://git.io/typing-svg)
-
----
-
-## 🔴 SYSTEM STATUS
-
-![Hacking](https://img.shields.io/badge/Hacking-Active-brightgreen?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=black)
-![Root](https://img.shields.io/badge/Root-Access%20Granted-red?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
-![Firewall](https://img.shields.io/badge/Firewall-Impenetrable-orange?style=for-the-badge&logo=paloaltonetworks&logoColor=white&labelColor=black)
-![Security](https://img.shields.io/badge/Security-Clearance%20Level%205-00FF41?style=for-the-badge&logo=shield&logoColor=white&labelColor=black)
-![Network](https://img.shields.io/badge/Network-Secured-cyan?style=for-the-badge&logo=cisco&logoColor=white&labelColor=black)
-
----
-
-## 📊 GITHUB STATISTICS
-
+<!-- Badges (Large Style) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x9z&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x9z&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=FF0000&currStreakLabel=00FF41&sideLabels=FFFFFF" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x9z&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🎯 TECH ARSENAL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,html,css,js,perl,vscode,raspberrypi&theme=dark" />
-</p>
-
----
-
-## 💼 FEATURED PROJECTS
-
-<p align="center">
-  <a href="https://github.com/0x9z/snake-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x9z&repo=snake-detector&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="45%"/>
+  <a href="https://x.com/_0x9z">
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" />
   </a>
-  <a href="https://github.com/0x9z/Automated-Backup-Script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x9z&repo=Automated-Backup-Script&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="45%"/>
+  <a href="https://github.com/0x9z">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/0x9z/IPv4-subnet-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x9z&repo=IPv4-subnet-calculator&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="45%"/>
-  </a>
-  <a href="https://github.com/0x9z/cv-builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0x9z&repo=cv-builder&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="45%"/>
-  </a>
-</p>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0x9z&theme=matrix&no-frame=true&row=1&column=7&margin-w=15&title_color=00FF41" />
-</p>
-
----
-
-## 📡 CONNECT WITH ME
-
-<p align="center">
-  <a href="https://cybernetwork.technology">
-    <img src="https://img.shields.io/badge/WEBSITE-cybernetwork.technology-00FF41?style=for-the-badge&logo=tor&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://linkedin.com/in/0x9z">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/>
+  <a href="https://www.linkedin.com/in/0x9z">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@0x9z">
-    <img src="https://img.shields.io/badge/MEDIUM-Read%20Articles-00FF41?style=for-the-badge&logo=medium&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="https://twitter.com/_0x9z">
-    <img src="https://img.shields.io/badge/TWITTER-Follow-00FF41?style=for-the-badge&logo=x&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://dev.to/0x9z">
-    <img src="https://img.shields.io/badge/DEV.TO-Blog-00FF41?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=black"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🌐 VISITORS
+![Cisco Badge](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
+![Juniper Networks Badge](https://img.shields.io/badge/Juniper%20Networks-84B135?logo=junipernetworks&logoColor=fff&style=for-the-badge)
+![Palo Alto Networks Badge](https://img.shields.io/badge/Palo%20Alto%20Networks-F04E23?logo=paloaltonetworks&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=for-the-badge)
+![LinuxServer Badge](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff&style=for-the-badge)
+![Linux Containers Badge](https://img.shields.io/badge/Linux%20Containers-333?logo=linuxcontainers&logoColor=fff&style=for-the-badge)
+![Linux Professional Institute Badge](https://img.shields.io/badge/Linux%20Professional%20Institute-FDC300?logo=linuxprofessionalinstitute&logoColor=000&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Perl Badge](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
+![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge)
+![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge)
+
+---
+
+
+# 💫 About Me:
+🔭 Specialized in network engineering & cybersecurity. Fueled by Linux, hands-on homelabs, and a deep curiosity to reverse-engineer tools. I break things to understand them, then I write about it..
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=0x9z&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=0x9z&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=0x9z&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+
+<center>
+  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3968993%2F757d1916-1627-4673-ae4a-b53d0ccaaad7.gif" width="1000px"/>
+</center>
+
+---
+
+## 📬 Connect with Me :
+
+<!-- Badges2 (Large Style) -->
+<p align="center">
+  <a href="https://x.com/_0x9z">
+    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" />
+  </a> | 
+  <a href="https://github.com/0x9z">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a> | 
+  <a href="https://www.linkedin.com/in/0x9z">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> | 
+  <a href="https://medium.com/@0x9z">
+    <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
+  </a> | 
+  <a href="https://dev.to/0x9z">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/0x9z/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=0x9z&style=for-the-badge&color=blue" />
 </p>
-
----
-
-### ⚡ "I break things to understand them, then I write about it."
-
-</div>
