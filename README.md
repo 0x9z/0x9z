@@ -22,6 +22,18 @@
 
 ## 🤝 Connect With Me
 
-<p align="center"> <img src="https://www.gitskins.com/api/section/social?username=0x9z&theme=github-dark&website=zero.ma" alt="0x9z social links" /> <br> <a href="https://github.com/0x9z"> <img src="https://img.shields.io/badge/GitHub-0x9z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - 0x9z" /> </a> </p>
+<p align="center">
+  <a href="https://zero.ma">
+    <img src="https://img.shields.io/badge/Website-zero.ma-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website - zero.ma" />
+  </a>
+  <a href="https://github.com/0x9z">
+    <img src="https://img.shields.io/badge/GitHub-0x9z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - 0x9z" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=0x9z&theme=github-dark&website=zero.ma" alt="0x9z social links" />
+</p>
+
 ---
 
