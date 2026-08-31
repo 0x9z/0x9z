@@ -1,100 +1,33 @@
-<!-- Header with GIF --> 
-<h1 align="center"><center>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR3MDVtdDR6Nm5ncWozaWZ6d29nbXRxbTdwbzlkMW9hM3ltbnQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DH1Au7j1gCGxGOkvUm/giphy.gif" width="70px"/>
-</center>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <b>Hello, I'm Anas (0x9z)</b>
-  <center>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR3MDVtdDR6Nm5ncWozaWZ6d29nbXRxbTdwbzlkMW9hM3ltbnQzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DH1Au7j1gCGxGOkvUm/giphy.gif" width="70px"/>
-</center>
-</h1>
-
-
-
-<!-- Badges (Large Style) -->
 <p align="center">
-  <a href="https://x.com/_0x9z">
-    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/0x9z">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/0x9z">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@0x9z">
-    <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/0x9z">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/hero?username=0x9z&theme=github-dark" alt="0x9z profile hero" />
 </p>
 
----
-
-![Cisco Badge](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
-![Juniper Networks Badge](https://img.shields.io/badge/Juniper%20Networks-84B135?logo=junipernetworks&logoColor=fff&style=for-the-badge)
-![Palo Alto Networks Badge](https://img.shields.io/badge/Palo%20Alto%20Networks-F04E23?logo=paloaltonetworks&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-003778?logo=linuxfoundation&logoColor=fff&style=for-the-badge)
-![LinuxServer Badge](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff&style=for-the-badge)
-![Linux Containers Badge](https://img.shields.io/badge/Linux%20Containers-333?logo=linuxcontainers&logoColor=fff&style=for-the-badge)
-![Linux Professional Institute Badge](https://img.shields.io/badge/Linux%20Professional%20Institute-FDC300?logo=linuxprofessionalinstitute&logoColor=000&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Perl Badge](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
-![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
-![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge)
-![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge)
-
----
-
-
-# 💫 About Me:
-🔭 Specialized in network engineering & cybersecurity. Fueled by Linux, hands-on homelabs, and a deep curiosity to reverse-engineer tools. I break things to understand them, then I write about it..
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=0x9z&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=0x9z&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=0x9z&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-
-
-<center>
-  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3968993%2F757d1916-1627-4673-ae4a-b53d0ccaaad7.gif" width="1000px"/>
-</center>
-
----
-
-## 📬 Connect with Me :
-
-<!-- Badges2 (Large Style) -->
 <p align="center">
-  <a href="https://x.com/_0x9z">
-    <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" />
-  </a> | 
-  <a href="https://github.com/0x9z">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> | 
-  <a href="https://www.linkedin.com/in/0x9z">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> | 
-  <a href="https://medium.com/@0x9z">
-    <img src="https://img.shields.io/badge/-Medium-00CCB4?style=for-the-badge&logo=medium&logoColor=white" />
-  </a> | 
-  <a href="https://dev.to/0x9z">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/about?username=0x9z&theme=github-dark" alt="About 0x9z" />
 </p>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=0x9z&theme=github-dark" alt="Language stack" />
+</p>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x9z&style=for-the-badge&color=blue" />
+  <img src="https://www.gitskins.com/api/section/stats?username=0x9z&theme=github-dark" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=0x9z&theme=github-dark" alt="0x9z featured projects" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=0x9z&theme=github-dark&website=zero.ma" alt="0x9z social links" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x9z) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](zero.ma)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
