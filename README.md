@@ -1,127 +1,71 @@
 <div align="center">
 
-# Z E R O
+# ZERO
 
-### Linux & IT Infrastructure Specialist
+**Linux & IT Infrastructure Specialist**
 
-`Marrakech, Morocco` · `CCST Networking (in progress)`
-
----
-
-Building IT infrastructure from the ground up —
-Linux systems, Cisco networks, and Bash/Python automation.
-
-**Every project is a step forward. One command at a time.**
+Marrakech, Morocco · CCST Networking (in progress)
 
 ---
 
-[**zero.ma**](https://zero.ma) · [**LinkedIn**](https://linkedin.com/in/0x9z) · [**Medium**](https://medium.com/@0x9z) · [**dev.to**](https://dev.to/0x9z)
+I build IT infrastructure from the ground up — Linux systems, networks, and automation.
+
+*Every project is a step forward. One command at a time.*
+
+---
+
+[**zero.ma**](https://zero.ma) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/0x9z) &nbsp;·&nbsp; [**Medium**](https://medium.com/@0x9z) &nbsp;·&nbsp; [**dev.to**](https://dev.to/0x9z)
 
 </div>
 
 ---
 
-## `whoami`
+### About
 
-```bash
-$ whoami
-zero
-
-$ cat /etc/profile
-Role     : Linux & IT Infrastructure Specialist
-Location : Marrakech, Morocco
-Focus    : Networking · Linux · Automation
-Status   : Open to IT Support / NOC roles
-Certs    : CCST Networking (in progress)
-```
+I'm Zero — a Linux and networking enthusiast based in Marrakech.
+Currently completing **CCST Networking** while building hands-on labs and tools that solve real problems.
 
 ---
 
-## `ls ~/skills`
+### Focus
 
-```bash
-$ ls -la ~/skills
-
-drwxr-xr-x  networking/
-drwxr-xr-x  linux/
-drwxr-xr-x  automation/
-drwxr-xr-x  web/
-```
-
-| Domain | Stack |
-|--------|-------|
-| **Networking** | Cisco IOS · RIPv2 · Static Routing · VLSM · Subnetting · Packet Tracer |
-| **Linux** | Bash · System Administration · Automation Scripts · LPIC-1 (planned) |
-| **Automation** | Python · Shell Scripting · Network Automation (learning) |
-| **Web** | HTML · CSS · Vanilla JavaScript |
+**Networking** — Cisco IOS · Routing · Switching · Subnetting · Packet Tracer  
+**Linux** — Bash · System Administration · Automation  
+**Automation** — Python · Shell Scripting  
+**Web** — HTML · CSS · Vanilla JavaScript
 
 ---
 
-## `ls ~/projects`
+### Selected Work
 
-```bash
-$ ls -la ~/projects --sort=featured
-```
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Cisco CCNA Labs** | 76+ hands-on labs — routing, switching, security | [→](https://github.com/0x9z/Cisco-CCNA-Labs) |
-| **IPv4 Subnet Calculator** | Single-file CIDR calculator, luxury dark theme | [→](https://github.com/0x9z/IPv4-subnet-calculator) |
-| **System Monitor** | Bash CPU/RAM/Disk monitoring script | [→](https://github.com/0x9z/system-monitor) |
-| **Automated Backup Script** | Linux backup automation in Bash | [→](https://github.com/0x9z/Automated-Backup-Script) |
-| **CV Builder** | Vanilla JS CV generator, PDF export | [→](https://github.com/0x9z/cv-builder) |
-| **zero.ma** | Portfolio & blog | [→](https://zero.ma) |
+| Project | Description |
+|---------|-------------|
+| **[Cisco CCNA Labs](https://github.com/0x9z/Cisco-CCNA-Labs)** | 76+ hands-on labs across routing, switching, and security |
+| **[IPv4 Subnet Calculator](https://github.com/0x9z/IPv4-subnet-calculator)** | Single-file CIDR calculator with a luxury dark theme |
+| **[System Monitor](https://github.com/0x9z/system-monitor)** | Bash script for CPU, memory, and disk monitoring |
+| **[Automated Backup Script](https://github.com/0x9z/Automated-Backup-Script)** | Linux backup automation in pure Bash |
+| **[CV Builder](https://github.com/0x9z/cv-builder)** | Vanilla JS resume generator with PDF export |
 
 ---
 
-## `cat ~/roadmap.md`
+### Roadmap
 
-```bash
-$ cat ~/roadmap.md
-```
-
-```
-[x] Networking fundamentals
-[x] IPv4 addressing & subnetting
-[x] VLSM
-[x] Static routing
-[x] RIPv2
-[ ] OSPF
-[ ] VLANs & Trunking
-[ ] ACLs
-[ ] NAT / PAT
-[ ] DHCP
-[ ] IPv6
-[ ] CCNA 200-301
-[ ] LPIC-1
-[ ] NSE4
-[ ] PCAP (Python)
-```
+`Networking fundamentals` ✓  
+`IPv4 & Subnetting` ✓  
+`VLSM` ✓  
+`Static Routing` ✓  
+`RIPv2` ✓  
+`OSPF` — next  
+`VLANs`  
+`ACLs · NAT · DHCP`  
+`IPv6`  
+`CCNA 200-301`  
+`LPIC-1 · NSE4 · PCAP`
 
 ---
 
-## `uptime`
-
-```bash
-$ uptime
- 06:56:00 up 3+ months, load average: coding, learning, building
-```
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x9z&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x9z&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
-<div align="center">
-
-
----
-
-**"The best way to predict the future is to build it — one command at a time."**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=0x9z&color=black&style=flat-square&label=PROFILE+VIEWS)
+*"The best way to predict the future is to build it."*
 
 </div>
