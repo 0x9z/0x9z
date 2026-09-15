@@ -4,7 +4,6 @@
 
 **Linux & IT Infrastructure Specialist**
 
-Marrakech, Morocco &nbsp;·&nbsp; CCST Networking (in progress)
 
 </div>
 
@@ -26,7 +25,7 @@ Building IT infrastructure from the ground up — Linux systems, networks, and a
 
 | Project | Description |
 |---------|-------------|
-| **[Cisco CCNA Labs](https://github.com/0x9z/Cisco-CCNA-Labs)** | 76+ hands-on labs — routing, switching, security |
+| **[Cisco CCNA Labs](https://github.com/0x9z/Cisco-CCNA-Labs)** | Hands-on labs — routing, switching, security |
 | **[IPv4 Subnet Calculator](https://github.com/0x9z/IPv4-subnet-calculator)** | Single-file CIDR tool with a luxury dark theme |
 | **[System Monitor](https://github.com/0x9z/system-monitor)** | Bash script for CPU, memory, and disk usage |
 | **[Automated Backup Script](https://github.com/0x9z/Automated-Backup-Script)** | Linux backup automation in pure Bash |
