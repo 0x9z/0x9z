@@ -106,8 +106,15 @@ $ cat ~/roadmap.md
 $ uptime
  06:56:00 up 3+ months, load average: coding, learning, building
 ```
-
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x9z&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x9z&layout=compact&theme=graywhite&hide_border=true)
+
+</div>
+<div align="center">
+
 
 ---
 
