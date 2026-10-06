@@ -1,6 +1,6 @@
 <div align="center">
 
-# ZERO
+# Hi, I'm Anas  — also known as Zero.
 
 **Linux & IT Infrastructure Specialist**
 
