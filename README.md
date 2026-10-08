@@ -9,27 +9,33 @@
 
 ---
 
-Building IT infrastructure from the ground up — Linux systems, networks, and automation scripts.
+# 💫 About Me:
+Building IT infrastructure solutions from the ground up — Linux systems, networks, and automation scripts. Every project is a step forward.
 
-*Every project is a step forward. One command at a time.*
+
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0x9z) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_0x9z) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=0x9z&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=0x9z&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=0x9z&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0x9z&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0x9z&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=0x9z&icon=6&color=1)](https://visitcount.itsvg.in)
 
-### Find Me
-
-[**zero.ma**](https://zero.ma) &nbsp;·&nbsp; [**GitHub**](https://github.com/0x9z) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/0x9z) &nbsp;·&nbsp; [**Blog**](https://blog.zero.ma) &nbsp;·&nbsp; [**Medium**](https://medium.com/@0x9z) &nbsp;·&nbsp; [**dev.to**](https://dev.to/0x9z)
-
----
-
-### What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| **[Cisco CCNA Labs](https://github.com/0x9z/Cisco-CCNA-Labs)** | Hands-on labs — routing, switching, security |
-| **[IPv4 Subnet Calculator](https://github.com/0x9z/IPv4-subnet-calculator)** | Single-file CIDR tool with a luxury dark theme |
-| **[System Monitor](https://github.com/0x9z/system-monitor)** | Bash script for CPU, memory, and disk usage |
-| **[Automated Backup Script](https://github.com/0x9z/Automated-Backup-Script)** | Linux backup automation in pure Bash |
-| **[CV Builder](https://github.com/0x9z/cv-builder)** | Vanilla JS resume generator with PDF export |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
