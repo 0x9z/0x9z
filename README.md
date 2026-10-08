@@ -46,12 +46,6 @@ Building IT infrastructure solutions from the ground up — Linux systems, netwo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0x9z&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=0x9z&icon=6&color=1)](https://visitcount.itsvg.in)
-
-
----
-
 
 <div align="center">
 
