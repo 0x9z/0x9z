@@ -1,3 +1,6 @@
+[![](https://komarev.com/ghpvc/?username=0x9z&icon=6&color=1)](https://visitcount.itsvg.in)
+
+---
 <div align="center">
 
 # Hi, I'm Anas  — also known as Zero.
@@ -18,6 +21,17 @@ Building IT infrastructure solutions from the ground up — Linux systems, netwo
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### Currently Learning
+
+`RIPv2` ✓ &nbsp; `Static Routing` ✓ &nbsp; `VLSM` ✓ &nbsp; `Subnetting` ✓
+
+`OSPF` — next &nbsp;·&nbsp; `VLANs` &nbsp;·&nbsp; `ACLs` &nbsp;·&nbsp; `NAT` &nbsp;·&nbsp; `IPv6` &nbsp;·&nbsp; `CCNA 200-301`
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=0x9z&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=0x9z&theme=dark&hide_border=false)<br/>
@@ -35,17 +49,9 @@ Building IT infrastructure solutions from the ground up — Linux systems, netwo
 ---
 [![](https://komarev.com/ghpvc/?username=0x9z&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
-### Currently Learning
-
-`RIPv2` ✓ &nbsp; `Static Routing` ✓ &nbsp; `VLSM` ✓ &nbsp; `Subnetting` ✓
-
-`OSPF` — next &nbsp;·&nbsp; `VLANs` &nbsp;·&nbsp; `ACLs` &nbsp;·&nbsp; `NAT` &nbsp;·&nbsp; `IPv6` &nbsp;·&nbsp; `CCNA 200-301`
-
----
 
 <div align="center">
 
