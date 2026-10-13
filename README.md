@@ -1,10 +1,4 @@
-![GitHub Rank Morocco](https://shields.io)
-
-
-
-<div align="center">
-  <img src="https://shields.io" alt="Top GitHub Users in Morocco">
-</div>
+[![gayanvoice/top-github-users/morocco](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/morocco/0x9z.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/morocco.md#0x9z)
 
 
 # Hi, I'm Anas — also known as Zero.
