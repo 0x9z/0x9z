@@ -1,3 +1,6 @@
+[![Top GitHub Users in Morocco](https://shields.io)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/morocco.md)
+
+
 # Hi, I'm Anas — also known as Zero.
 
 Self-taught Linux & networking — building IT infrastructure from the ground up.
