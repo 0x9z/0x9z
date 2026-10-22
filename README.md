@@ -6,7 +6,7 @@
 Self-taught Linux & networking — building IT infrastructure from the ground up.
 Everything I know, I built alone. One command at a time.
 
-📍 Morocco · 🌐 [zero.ma](https://zero.ma) · 🌐 [cybernetwork.technology]([https://zero.ma](https://cybernetwork.technology/)) · 📝 [blog.zero.ma](https://blog.zero.ma) · 💼 [LinkedIn](https://linkedin.com/in/anasaitbaani)
+📍 Morocco · 🌐 [zero.ma](https://zero.ma) · 🌐 [cybernetwork.technology](https://cybernetwork.technology/) · 📝 [blog.zero.ma](https://blog.zero.ma) · 💼 [LinkedIn](https://linkedin.com/in/anasaitbaani)
 
 ---
 
